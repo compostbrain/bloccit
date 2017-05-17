@@ -16,6 +16,7 @@ end
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.6'
+  gem 'shoulda'
 end
 
 gem 'rails-controller-testing'
